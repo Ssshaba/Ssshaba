@@ -4,7 +4,7 @@ Hi, I`m Maksim Shabelnik
 ### About Me
 <div align="center">
 
-<a href="mailto:w.maks2015611@gmail.com">
+<a href="mailto:maks2015611@gmail.com">
 <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
 </div>
