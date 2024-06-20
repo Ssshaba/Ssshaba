@@ -6,7 +6,7 @@
 
 
 ---
-### contact with me
+### Сontact with me
 <div align="center">
 
 <a href="mailto:maks2015611@gmail.com">
