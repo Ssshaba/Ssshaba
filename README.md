@@ -1,7 +1,12 @@
-Hi, I`m Maksim Shabelnik
----
 
-### About Me
+
+<div id="header" align="center">                               
+  <img src="https://sun9-34.userapi.com/impg/Cq9KBZxofMeu35VfiwhCdsR3wuSxTkS4sysk2Q/RUG9GCJXl-I.jpg?size=807x378&quality=95&sign=9491f224196b8348883912f6e5ccd646&c_uniq_tag=aa8i-J3cSZNlogNxMlox03ygKthmjw5z8uFSmz8wLmE&type=album" width="450"/>
+</div>
+
+
+---
+### I`m Maksim Shabelnik
 <div align="center">
 
 <a href="mailto:maks2015611@gmail.com">
